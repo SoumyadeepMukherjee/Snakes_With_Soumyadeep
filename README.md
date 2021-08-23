@@ -11,6 +11,6 @@ Installing the Pygame module :
 
 ### Hopefully you will enjoy the game. Happy Gaming!
 
-##Thanks!!
+## Thanks!!
 
 
