@@ -8,8 +8,9 @@ Installing the Pygame module :
 * Type pip install `pygame/pip3 install pygame`
 
 ## Go through the [User Manual](User-Manual.md) carefully before proceeding to play the game. 
-
-### Hopefully you will enjoy the game. Happy Gaming!
+## Demo
+- ![](Images/Demo1.png)
+## Hopefully you will enjoy the game. Happy Gaming!
 
 ## Thanks!!
 
