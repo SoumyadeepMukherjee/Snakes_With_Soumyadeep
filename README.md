@@ -5,9 +5,9 @@ This Snake Game is made using Python 3.9.6 & Pygame module. Explore the game & h
 Installing the Pygame module :
 
 * Open Terminal/CMD.
-* Type pip install pygame/pip3 install pygame.
+* Type pip install `pygame/pip3 install pygame`
 
-### Go through the User Manual carefully before proceeding to play the game. 
+## Go through the [User Manual](User-Manual.md) carefully before proceeding to play the game. 
 
 ### Hopefully you will enjoy the game. Happy Gaming!
 
