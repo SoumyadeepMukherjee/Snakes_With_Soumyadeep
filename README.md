@@ -10,6 +10,7 @@ Installing the Pygame module :
 ## Go through the [User Manual](User-Manual.md) carefully before proceeding to play the game. 
 ## Demo
 - ![](Images/Demo1.png)
+- ![](Images/Demo2.png)
 ## Hopefully you will enjoy the game. Happy Gaming!
 
 ## Thanks!!
